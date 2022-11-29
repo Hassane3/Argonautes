@@ -1,0 +1,17 @@
+L'application utilise :
+en front : React - axios - node
+en back : mysql - express - cors - node 
+
+
+ 
+// Pour préparer l'environnement de travail :
+Se positionner dans le dossier "express-mysql" et lancer la commande : npm install
+Se positionner dans le dossier "react-crudé" et lancer la commande : npm install
+
+// Pour lancer le code :
+Se positionner dans le dossier "express-mysql" et lancer la commande : node index.js
+Se positionner dans le dossier "react-crudé" et lancer la commande : npm start
+
+La base de données se trouve dans le fichier "ressources.sql" qui devra être installée en local.
+
+Les paramêtre de connexion à la base de données local se trouvent dans le fichier "express-mysql/index.js"
